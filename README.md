@@ -16,6 +16,8 @@
   <li> Click the "Generate Password" button to generate a random password based on the selected criteria.
   <li> The generated password will be displayed in the passbox area.</li>
 </ol>
+<h2> Preview </h2>
+<a href="https://imgur.com/DiMuvfV"><img src="https://i.imgur.com/DiMuvfV.png" title="source: imgur.com" /></a>
 
 <h3> License </h3>
 <p> This project is licensed under the<code> MIT License  </code> </p>
